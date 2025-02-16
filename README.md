@@ -23,7 +23,7 @@ qr-generator-gui
 1. Clona el repositorio en tu máquina local:
 
 ```sh
-   git clone https://github.com/tu-usuario/qr-generator-gui.git
+   git clone https://github.com/raulfdeztdo/qr-generator.git
    cd qr-generator-gui
 ```
 
